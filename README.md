@@ -47,3 +47,28 @@ This includes methods implementations in Python for several methods such as :
  - LU factorization with partial pivoting
  
  - Cholesky factorization 
+
+
+### Gradient descent and interpolations 
+```gradient_interpolations.py
+
+- Gradient Descent 
+
+ ![](img/graficul_functiei.png)
+ ![](img/linii_nivel.png)
+
+- Lagrange interpolation with NDD method 
+
+![](img/interpolare_lagrange_6.png)
+ 
+![](img/interpolare_lagrange_36.png)
+ 
+![](img/eroare_lagrange.png)
+ 
+- Spline cubic interpolation
+
+![](img/eroare_spline.png)
+
+![](img/interpolare_spline.png)
+
+
