@@ -12,12 +12,18 @@ Commentaries are in Romanian for the code
 This includes methods implementations in Python for several methods such as :
 
  - Newton - Raphson
- 
+
  - Bisection Method
+ 
+ ![Bisection method][metoda_bisectiei.png]  
  
  - False position method
  
+ ![False position][metoda_pozitiei_false.png]  
+ 
  - Secant method
+ 
+ ![Secant method][metoda_secantei.png]
  
  
  ### Matrices
@@ -28,6 +34,7 @@ This includes methods implementations in Python for several methods such as :
  - Gauss with total pivoting
  
  - Determining invertibility of matrix
+ 
  - Gauss method for determining invertibility of matrix 
  
  - LU factorization with partial pivoting
