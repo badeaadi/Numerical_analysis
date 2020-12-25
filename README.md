@@ -15,16 +15,9 @@ This includes methods implementations in Python for several methods such as :
 
  - Bisection Method
  
- ![Bisection method][metoda_bisectiei.png]  
- 
  - False position method
  
- ![False position][metoda_pozitiei_false.png]  
- 
  - Secant method
- 
- ![Secant method][metoda_secantei.png]
- 
  
  ### Matrices
  ```matrices.py```
