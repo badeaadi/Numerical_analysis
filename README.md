@@ -50,11 +50,12 @@ This includes methods implementations in Python for several methods such as :
 
 
 ### Gradient descent and interpolations 
-```gradient_interpolations.py
+```gradient_interpolations.py```
 
 - Gradient Descent 
 
  ![](img/graficul_functiei.png)
+ 
  ![](img/linii_nivel.png)
 
 - Lagrange interpolation with NDD method 
