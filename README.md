@@ -1,7 +1,7 @@
 ## Numerical analysis
 
 Projects during the numerical analysis course.
-Comments in Romanian for the code
+Comments in Romanian
 
 
 ## Functions 
