@@ -73,3 +73,30 @@ This includes methods implementations in Python for several methods such as :
 ![](img/interpolare_spline.png)
 
 
+
+
+### Approximations of functions 
+```integrals_derivatives.py```
+
+
+
+
+- Approximation of second derivative of a function vs symbolic calculus
+
+
+![](img/derivata_secundata.png)
+
+
+- Error with respect to number of points from linearization
+
+![](img/eroare_de_trunchiere_derivata.png)
+
+
+- Approximation of integral with the quadrature formulae
+
+
+![](img/integrala_numerica.png)
+
+
+
+
